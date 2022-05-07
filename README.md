@@ -47,7 +47,7 @@ My Tech Stacks
 [twitter]: https://twitter.com/KutayKaracair
 [gmail]: mailto:kutaykaracair@gmail.com
 
-### 📊 GitHub Analytics
+### My Github Analytics
 
 <a href="https://github.com/ahmetkutay">
   
