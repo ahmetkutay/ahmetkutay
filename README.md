@@ -5,7 +5,7 @@ I'm Ahmet Kutay, a self-motivated tech enthusiast and who trying to become a ful
 </p>
 
 <p align="center">
-I'm currently working as a software engineer at<a href="https://github.com/Kandy-IO">@Kandy-IO</a> and building a project which is <a href="https://github.com/ahmetkutay/criticismbox-server">CriticismBox Server</a> for fun.
+I'm currently working as a software engineer at Orion Innovation and building a project which is <a href="https://github.com/ahmetkutay/criticismbox-server">CriticismBox Server</a> for fun.
 </h4>
 
 <br/>
