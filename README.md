@@ -1,11 +1,11 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <h4 align="center">
-I'm Ahmet Kutay, a self-motivated tech enthusiast and who trying to become a full stack developer.
+I'm Ahmet Kutay, a self-motivated tech enthusiast trying to become a full-stack developer.
 </p>
 
 <p align="center">
-I'm currently working as a software engineer at Orion Innovation and building a project which is <a href="https://github.com/ahmetkutay/criticismbox-server">CriticismBox Server</a> for fun.
+I'm currently working as a software engineer at Orion Innovation and building a project which is <a href="https://github.com/ahmetkutay/chatApp-server">ChatApp Server </a> for fun.
 </h4>
 
 <br/>
