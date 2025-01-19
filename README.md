@@ -1,70 +1,75 @@
-<h3 align="center"> Hi there 👋</h3>
+# Hi there, I'm Ahmet Kutay 👋
 
-<h4 align="center">
-I'm <strong>Ahmet Kutay</strong>, a self-motivated tech enthusiast on my journey to becoming a full-stack developer.
-</h4>
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating efficient and innovative solutions. Here's a little bit about me:
 
-<p align="center">
-  Currently, I'm working as a Software Engineer at <strong>Karnaval Media Group</strong> and building fun projects.
-</p>
+## 🧑‍💻 About Me
 
-<br/>
+- 🔭 I’m currently working on various exciting projects in web development, machine learning, and data science.
+- 🌱 I’m constantly learning and exploring new technologies to enhance my skill set.
+- 💬 Ask me about Python, JavaScript, React, Node.js, and any other technologies you see in my repositories.
+- 📫 How to reach me: [info@kutaykaracair.com](mailto:info@kutaykaracair.com)
+- ⚡ Fun fact: I love playing chess and enjoy solving complex puzzles.
 
-<h3 align="center">🌐 Connect with Me</h3>
+## 🛠️ My Skills
 
-<p align="center">
-  <a href="https://twitter.com/KutayKaracair" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kutay's Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmetkutay/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kutay's LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/kutaykaracair/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Kutay's Instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:kutaykaracair@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Kutay's Gmail" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools and Technologies</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+## 📫 Contact Me
 
-<h3 align="center">🛠️ My Tech Stack</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/ahmetkutay">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:info@kutaykaracair.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" alt="Flutter" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg" alt="Laravel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vuedotjs.svg" alt="Vue" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/phpstorm.svg" alt="PhpStorm" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/webstorm.svg" alt="WebStorm" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datagrip.svg" alt="DataGrip" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="Postman" width="40" height="40" />
-</p>
+## 📊 GitHub Stats
 
-<br/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmetkutay&show_icons=true&theme=radical" alt="Ahmet Kutay's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkutay&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">📊 My GitHub Stats</h3>
+---
 
-<div align="center">
-  <a href="https://github.com/ahmetkutay">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetkutay&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="Ahmet Kutay's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkutay&layout=compact&langs_count=8&theme=buefy" alt="Ahmet Kutay's Top Languages" />
-  </a>
-</div>
-
-<!-- Uncomment to add streak stats or trophies
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkutay&theme=light" alt="GitHub Streak Stats" />
-  </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmetkutay&theme=flat" alt="GitHub Trophies" />
-</p>
--->
+Thank you for visiting my profile! Have a great day! 😊
