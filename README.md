@@ -1,75 +1,73 @@
-# Hi there, I'm Ahmet Kutay 👋
+# 👋 Hey there, I'm **Ahmet Kutay**
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating efficient and innovative solutions. Here's a little bit about me:
-
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on various exciting projects in web development, machine learning, and data science.
-- 🌱 I’m constantly learning and exploring new technologies to enhance my skill set.
-- 💬 Ask me about Python, JavaScript, React, Node.js, and any other technologies you see in my repositories.
-- 📫 How to reach me: [info@kutaykaracair.com](mailto:info@kutaykaracair.com)
-- ⚡ Fun fact: I love playing chess and enjoy solving complex puzzles.
-
-## 🛠️ My Skills
-
-<table>
-  <tr>
-    <td><b>Programming Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools and Technologies</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
-## 📫 Contact Me
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/ahmetkutay">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:info@kutaykaracair.com">
-        <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmetkutay&show_icons=true&theme=radical" alt="Ahmet Kutay's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkutay&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=00FFAB&width=440&lines=Building+innovative+web+and+ML+solutions...;Chess+enthusiast+%26+puzzle+solver" alt="Typing SVG" />
+</p>
 
 ---
 
-Thank you for visiting my profile! Have a great day! 😊
+## 🧑‍💻 About Me
+
+- 🔭 **Current**: Ahbabım Health App (upload & analyze blood test results)  
+- 🌱 **Learning**: Rust, TypeScript, Scandinavian languages  
+- 💬 **Ask me about**: Python, Node.js, React, FastAPI, GraphQL  
+- ⚡ **Fun**: Chess puzzles, photography, coffee aficionado  
+
+---
+
+[![wakatime](https://wakatime.com/badge/user/9af7a88a-c0c8-481b-ac7c-e7f7ba996028.svg)](https://wakatime.com/@9af7a88a-c0c8-481b-ac7c-e7f7ba996028)
+[![github](https://img.shields.io/github/followers/ahmetkutay?logo=github&style=plastic)](https://github.com/ahmetkutay?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/KutayKaracair?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/KutayKaracair)
+---
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/Rust-000000?logo=rust&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square" />
+  <img height="30" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=flat-square" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetkutay&show_icons=true&theme=tokyonight&hide_border=true)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmetkutay&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 🏆 Trophy Case
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ahmetkutay&theme=flat)  
+
+---
+
+## 📊 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmetkutay&theme=react-dark&hide_border=true)  
+
+---
+  
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:info@kutaykaracair.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ahmetkutay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ahmetkutay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter" /></a>
+  <a href="https://blog.kutaykaracair.com"><img src="https://img.shields.io/badge/Blog-F4B400?logo=ghost&style=flat-square" alt="Blog" /></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Last updated on <!-- readme:running --> • Made with ❤️ by Ahmet Kutay</sub>
+</p>
+
+
