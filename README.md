@@ -23,7 +23,6 @@
 <p align="center">
   <img height="30" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" />
   <img height="30" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square" />
-  <img height="30" src="https://img.shields.io/badge/Rust-000000?logo=rust&style=flat-square" />
   <img height="30" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=flat-square" />
   <img height="30" src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square" />
   <img height="30" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square" />
