@@ -14,10 +14,6 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/9af7a88a-c0c8-481b-ac7c-e7f7ba996028.svg)](https://wakatime.com/@9af7a88a-c0c8-481b-ac7c-e7f7ba996028)
-[![github](https://img.shields.io/github/followers/ahmetkutay?logo=github&style=plastic)](https://github.com/ahmetkutay?tab=followers)
-[![twitter](https://img.shields.io/twitter/follow/KutayKaracair?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/KutayKaracair)
----
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -56,10 +52,24 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:info@kutaykaracair.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ahmetkutay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/ahmetkutay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter" /></a>
-  <a href="https://blog.kutaykaracair.com"><img src="https://img.shields.io/badge/Blog-F4B400?logo=ghost&style=flat-square" alt="Blog" /></a>
+  <a href="mailto:info@kutaykaracair.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmetkutay">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ahmetkutay">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter" />
+  </a>
+  <a href="https://blog.kutaykaracair.com">
+    <img src="https://img.shields.io/badge/Blog-F4B400?logo=ghost&style=flat-square" alt="Blog" />
+  </a>
+  <a href="https://wakatime.com/@9af7a88a-c0c8-481b-ac7c-e7f7ba996028">
+    <img src="https://wakatime.com/badge/user/9af7a88a-c0c8-481b-ac7c-e7f7ba996028.svg" alt="wakatime" />
+  </a>
+  <a href="https://github.com/ahmetkutay?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahmetkutay?logo=github&style=plastic" alt="github followers" />
+  </a>
 </p>
 
 ---
