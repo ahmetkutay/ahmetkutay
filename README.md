@@ -8,10 +8,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 **Current**: Ahbabım Health App (upload & analyze blood test results)  
-- 🌱 **Learning**: Rust, TypeScript, Scandinavian languages  
-- 💬 **Ask me about**: Python, Node.js, React, FastAPI, GraphQL  
-- ⚡ **Fun**: Chess puzzles, photography, coffee aficionado  
+- 🌱 **Learning**: Go, Vue, Italian and Spanish languages  
+- 💬 **Ask me about**: Python, Node.js, React, Express, GraphQL  
+- ⚡ **Fun**: Chess puzzles, Coding
 
 ---
 
